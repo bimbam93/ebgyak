@@ -1,0 +1,1 @@
+Lokálisan létrehozott README.md
