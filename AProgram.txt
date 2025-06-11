@@ -1,3 +1,5 @@
 Ezt itt a nagy programom
 
 Új funkciót feljesztése - Funkciót X1
+
+Módosítom az 5. sort a kiskacsa fejlesztési szálon...
